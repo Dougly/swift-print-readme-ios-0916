@@ -4,12 +4,16 @@
 
 > Better to write for yourself and have no public, than to write for the public and have no self. ~[Cyril Connolly](https://en.wikipedia.org/wiki/Cyril_Connolly)
 
+## Overview 
+
+We'll use the print function to print and output strings and variables to your screen.
+
 ## Learning Objectives
-* Explain the importance of being able to print your variables.
-* Explain where the print function displays the text.
+* Explain the importance of being able to print your variables
+* Explain where the print function displays the text
 * Print a string literal
-* Print a sentence using string interpolation.
-* Create a sentence to store in a variable using string interpolation - as follows:
+* Print a sentence using string interpolation
+* Create a sentence to store in a variable using string interpolation
 
 ## Printing Values
 
@@ -35,7 +39,7 @@ However, a playground also allows you to see what would be printed to your scree
 
 ![Show the debug area](http://i.imgur.com/rZh8PH5.png)
 
-Clicking that arrow will reveal the "Debug area", which is what Xcode calls the part of the playground file that shows your program's output.
+Clicking that arrow will reveal the "Debug area", which is what Xcode calls the part of the playground file that shows your program's output. (If you don't see the arrow, then in the top menu, go to "View," then go to "Debug Area," and then click on "Activate Console.")
 
 Now you can show the results of printing out the variables you just created.
 
